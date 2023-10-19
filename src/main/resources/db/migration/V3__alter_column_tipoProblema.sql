@@ -1,0 +1,1 @@
+alter table Problema change tipoProblema tipo_problema varchar(100);

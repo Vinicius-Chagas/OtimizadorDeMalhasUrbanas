@@ -1,0 +1,1 @@
+alter table Problema change foto foto mediumtext;
